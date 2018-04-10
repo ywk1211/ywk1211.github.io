@@ -23,13 +23,13 @@
     <published>2018-03-29T21:22:53.000Z</published>
     <updated>2018-03-29T21:23:22.000Z</updated>
     
-    <content type="html"><![CDATA[<html><head></head><body><script src="/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887"></script><script>L2Dwidget.init({"model":"wanko","bottom":-30});</script></body></html>]]></content>
+    <content type="html"><![CDATA[<html><head></head><body><script src="/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887"></script><script>L2Dwidget.init({});</script></body></html>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script src=&quot;/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887&quot;&gt;&lt;/script&gt;&lt;script&gt;L2Dwidget.init({&quot;mode
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script src=&quot;/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887&quot;&gt;&lt;/script&gt;&lt;script&gt;L2Dwidget.init({});&lt;/
       
     
     </summary>
@@ -44,7 +44,7 @@
     <published>2018-03-29T15:42:28.000Z</published>
     <updated>2018-03-29T21:23:28.000Z</updated>
     
-    <content type="html"><![CDATA[<html><head></head><body><p>hello world!</p><script src="/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887"></script><script>L2Dwidget.init({"model":"wanko","bottom":-30});</script></body></html>]]></content>
+    <content type="html"><![CDATA[<html><head></head><body><p>hello world!</p><script src="/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887"></script><script>L2Dwidget.init({});</script></body></html>]]></content>
     
     <summary type="html">
     
